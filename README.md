@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 # 📊 GitHub Stats:
  <br>
  <p align="center">
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
    <br />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysteriousbug&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
   </P><br>
-
+-->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amit-hinge&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
