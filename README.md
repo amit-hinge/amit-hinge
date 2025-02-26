@@ -16,8 +16,14 @@ Here are some ideas to get you started:
 -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amit-hinge&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amit-hinge&theme=dark&hide_border=false)<br/>
+ <br>
+ <p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=mysteriousbug&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+   <br/>
+  <img   src="https://github-readme-streak-stats.herokuapp.com/?user=mysteriousbug&theme=vue-dark&hide_border=true"/>
+   <br />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysteriousbug&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+  </P><br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amit-hinge&theme=radical&no-frame=false&no-bg=true&margin-w=4)
