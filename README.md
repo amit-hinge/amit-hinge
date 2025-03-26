@@ -25,7 +25,7 @@ I'm a versatile and results-driven technology professional with over 3 years of 
 	<span> * </span>
 </p>
 
-<p align="center"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=amit-hinge&count_private=false&include_all_commits=true&show_icons=true&rank_icon=percentile&hide_border=true&theme=jolly" /> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-hinge&langs_count=8&layout=compact&hide=css&hide_border=true&theme=jolly" /></p>
+<p align="center"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=jolly" /> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-hinge&langs_count=8&layout=compact&hide=css&hide_border=true&theme=jolly" /></p>
 
 ---
 <!---
