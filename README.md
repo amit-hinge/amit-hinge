@@ -1,34 +1,35 @@
-## Hi there 👋
+<p align="right">
+	<img alt="amit-hinge's visitors" src="https://komarev.com/ghpvc/?username=amit-hinge&color=8c36db&style=flat&label=visitors" />
+	<img alt="amit-hinge's followers" src="https://img.shields.io/github/followers/amit-hinge?color=blueviolet" />
+	<img alt="amit-hinge's stars" src="https://img.shields.io/github/stars/amit-hinge?color=blueviolet" />
+</p>
 
+[![Poster with background image of a galaxy in the colours purple and blue with animated sparkling stars and a pixelated cat.](img/poster_galaxy-2.gif)](https://www.linkedin.com/in/amitsv26/)
+
+# Hi there <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px" alt="Waiving hand">
 <!--
-**amit-hinge/amit-hinge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Thanks for visiting! 😄
 
-Here are some ideas to get you started:
+I'm a **Full-stack Software Engineer** at [Clever Real Estate](https://listwithclever.com/) and used to be a _cadet_ (software engineering student) at [École 42](https://www.42sp.org.br/) ✨.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-# 📊 GitHub Stats:
- <br>
- <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=mysteriousbug&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
-   <br/>
-  <img   src="https://github-readme-streak-stats.herokuapp.com/?user=mysteriousbug&theme=vue-dark&hide_border=true"/>
-   <br />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysteriousbug&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
-  </P><br>
+I have experience with TypeScript/JavaScript, React, React Native, Redux/RTK, Vite, NextJS, Expo, Tailwindcss, Web Components, GraphQL/Apollo, Node, NestJS, Python, Django, Flask, PostgreSQL, MongoDB, Docker, REST APIs, AWS, Heroku, Mixpanel, Sentry, Datadog, New Relic, CI/CD.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amit-hinge&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I'm a versatile and results-driven technology professional with over 15 years of experience, the last third of which have been spent in software engineering. I have worked across diverse roles and industries, ranging from early-stage startups to established companies in sectors such as construction, aerospace, healthcare, education, and real estate. For more details on my experience and background, please visit https://appinha.dev/about/
+
+<p align="center">
+	<a href="mailto:amanda_pinha@hotmail.com"><img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-orchid?style=flat&logo=Gmail&logoColor=white&link=mailto:amanda_pinha@hotmail.com" /></a>
+	<span> * </span>
+	<a href="https://appinha.dev/about/"><img alt="My personal website" src="https://img.shields.io/badge/-www.appinha.dev-slateblue?style=flat&logoColor=white&link=https://appinha.dev/about/" /></a>
+	<span> * </span>
+	<a href="https://www.linkedin.com/in/appinha/"><img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/appinha/" /></a>
+	<span> * </span>
+	<a href="https://profile.intra.42.fr/apuchill"><img alt="Profile at École 42" src="https://img.shields.io/badge/-apuchill_@_42-teal?style=flat&logoColor=white&link=https://profile.intra.42.fr/apuchill" /></a>
+</p>
+
+<p align="center"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=appinha&count_private=true&include_all_commits=true&show_icons=true&rank_icon=percentile&hide_border=true&theme=jolly" /> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&langs_count=8&layout=compact&hide=css&hide_border=true&theme=jolly" /></p>
+
 ---
-[![](https://visitcount.itsvg.in/api?id=amit-hinge&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+<h3 align="center">
+	Show some ❤️ by starring ⭐️ my repositories!
+</h3>
