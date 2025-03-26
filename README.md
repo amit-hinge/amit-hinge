@@ -19,13 +19,13 @@ I'm a versatile and results-driven technology professional with over 3 years of 
 <p align="center">
 	<a href="mailto:amitsv26@gmail.com"><img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-orchid?style=flat&logo=Gmail&logoColor=white&link=mailto:amitsv26@gmail.com" /></a>
 	<span> * </span>
-	<a href="https://amitsv26.github.io/about.html"><img alt="My personal website" src="https://img.shields.io/badge/-www.appinha.dev-slateblue?style=flat&logoColor=white&link=https://amitsv26.github.io/about.html" /></a>
+	<a href="https://amitsv26.github.io/about.html"><img alt="My personal website" src="https://img.shields.io/badge/-amitsv26.github.io/-slateblue?style=flat&logoColor=white&link=https://amitsv26.github.io/about.html" /></a>
 	<span> * </span>
 	<a href="https://www.linkedin.com/in/amitsv26/"><img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amitsv26/" /></a>
 	<span> * </span>
 </p>
 
-<p align="center"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=amit-hinge&count_private=true&include_all_commits=true&show_icons=true&rank_icon=percentile&hide_border=true&theme=jolly" /> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&langs_count=8&layout=compact&hide=css&hide_border=true&theme=jolly" /></p>
+<p align="center"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=amit-hinge&count_private=true&include_all_commits=true&show_icons=true&rank_icon=percentile&hide_border=true&theme=jolly" /> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-hinge&langs_count=8&layout=compact&hide=css&hide_border=true&theme=jolly" /></p>
 
 ---
 <!---
